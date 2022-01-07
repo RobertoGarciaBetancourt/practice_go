@@ -1,1 +1,1 @@
-# practice_go
+# Practice Go
